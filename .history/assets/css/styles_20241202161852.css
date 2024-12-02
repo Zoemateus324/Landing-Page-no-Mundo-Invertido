@@ -99,7 +99,7 @@ header::before{
     background-position:center 90%;
     filter:saturate(0);
     opacity:0.2;
-     
+     z-index:0;
 
 }
 
@@ -107,7 +107,6 @@ header::before{
     max-width:700px;
     padding:80px 20px;
     text-align:center;
-    z-index:2;
 }
 
 
