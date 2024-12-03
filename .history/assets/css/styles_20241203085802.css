@@ -87,10 +87,6 @@ input,textarea{
 label{
     margin-bottom:8px;
 }
-input:focus-visible, textarea:focus-visible{
-    outline:none;
-    border-color:black;
-}
 /* Header Style */
 
 header{
@@ -176,13 +172,6 @@ main{
     display:flex;
     flex-direction:column;
     align-items:center;
-}
-
-main::before{
-    content:"";
-    width:100%;
-    height:100%;
-    position:
 }
 
 section{

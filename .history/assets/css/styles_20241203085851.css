@@ -178,13 +178,6 @@ main{
     align-items:center;
 }
 
-main::before{
-    content:"";
-    width:100%;
-    height:100%;
-    position:
-}
-
 section{
     display:flex;
     justify-content:space-between;
