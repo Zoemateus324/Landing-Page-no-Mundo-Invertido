@@ -296,11 +296,3 @@ section{
     color:var(--primary-color-contrast);
     text-align:left;
 }
-
-#section-form .form-container form button{
-    border:none;
-    background-color:var(--field-background-color);
-    color:var(--primary-color-contrast);
-    max-width:300px;
-    align-self:center;
-}
